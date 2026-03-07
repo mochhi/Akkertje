@@ -1,25 +1,16 @@
-[5012:13676:0307/132618.014:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21660:28156:0307/132618.014:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5012:13676:0307/132622.645:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21660:28156:0307/132638.362:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21660:28156:0307/132638.605:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21660:28564:0307/132724.649:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[21660:28156:0307/132724.735:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[21660:28156:0307/132724.735:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[21660:28156:0307/132724.735:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[21660:28156:0307/132724.735:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[21660:28564:0307/132724.800:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[5012:32056:0307/132725.203:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[5012:13676:0307/132725.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[5012:13676:0307/132725.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[5012:13676:0307/132725.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[5012:13676:0307/132725.856:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[5012:32056:0307/132725.869:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[32164:32168:0307/132941.682:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[32164:32168:0307/132941.683:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[28696:10200:0307/132950.547:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[28696:10200:0307/132950.547:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[5012:13676:0307/140541.055:ERROR:device_event_log_impl.cc(196)] [14:05:40.967] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Kan element niet vinden. (0x490)
-[21660:28156:0307/140541.228:ERROR:device_event_log_impl.cc(196)] [14:05:40.967] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Kan element niet vinden. (0x490)
-[5012:13676:0307/145349.291:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[21660:28156:0307/145836.039:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[34172:26000:0307/205458.960:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[34172:35504:0307/205459.000:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[34172:26000:0307/205459.017:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[34172:26936:0307/205501.118:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34172:26936:0307/205501.122:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34172:26936:0307/205501.125:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34172:26936:0307/205501.128:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34172:26936:0307/205501.623:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34172:26936:0307/205501.626:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26176:30676:0307/205502.428:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1D8AE279CE097C72F8E0091C1985D31A will be ignored
+[34172:34828:0307/205506.193:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[34172:9368:0307/205507.462:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34172:26000:0307/205537.747:ERROR:device_event_log_impl.cc(196)] [20:55:37.562] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Kan element niet vinden. (0x490)
+[34172:26000:0307/205537.747:ERROR:device_event_log_impl.cc(196)] [20:55:37.622] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Niet meer gegevens beschikbaar. (0x103)
+[34172:34828:0307/205807.094:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[34172:26000:0307/215558.089:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal Engine Projects/Akkertje/Content/Boardgame/Blueprints/User_Interface/Shop/WBP_ShopUI.uasset",
+				"C:/Unreal Engine Projects/Akkertje/Content/Boardgame/Blueprints/Widgets/WBP_MapSelectie.uasset",
+				"C:/Unreal Engine Projects/Akkertje/Content/Boardgame/Blueprints/BP_GameflowManager.uasset",
+				"C:/Unreal Engine Projects/Akkertje/Content/Boardgame/Blueprints/User_Interface/BP_UserInterface.uasset",
+				"C:/Unreal Engine Projects/Akkertje/Content/Boardgame/Blueprints/User_Interface/Shop/WBP_Shop.uasset",
 				"D:/Extra/Keine Akker Boardgame/Akkertje/Content/Boardgame/Levels/Islands.umap",
 				"D:/Extra/Keine Akker Boardgame/Akkertje/Content/Boardgame/Assets/Meshy_AI_Floating_Island_base_0307134001_texture/Textures/Image_1.uasset",
 				"D:/Extra/Keine Akker Boardgame/Akkertje/Content/Boardgame/Assets/Meshy_AI_Floating_Island_base_0307134001_texture/Textures/Image_2.uasset",
