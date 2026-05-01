@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2026/05/01-07:40:13.898 8300 Reusing MANIFEST C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
 2026/05/01-07:40:13.904 8300 Recovering log #3
 2026/05/01-07:40:13.906 8300 Reusing old log C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+=======
+2026/05/01-07:52:09.966 7448 Reusing MANIFEST D:\Extra\Keine Akker Boardgame\Akkertje\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/01-07:52:10.451 7448 Recovering log #3
+2026/05/01-07:52:10.516 7448 Reusing old log D:\Extra\Keine Akker Boardgame\Akkertje\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes
