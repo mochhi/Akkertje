@@ -1,0 +1,15 @@
+[19200:19616:0501/153317.700:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19200:6380:0501/153317.751:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19200:19616:0501/153317.773:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19200:19616:0501/153319.836:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
+[19200:34012:0501/153319.854:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19200:34012:0501/153319.856:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19200:34012:0501/153319.860:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19200:34012:0501/153319.862:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine Projects\Akkertje\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26324:33648:0501/153320.350:ERROR:backend_impl.cc(989)] Critical error found -8
+[19200:30148:0501/153320.358:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19200:30148:0501/153320.367:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26324:33648:0501/153320.491:WARNING:storage_block-inl.h(138)] Failed data load.
+[26324:33648:0501/153320.491:WARNING:storage_block-inl.h(138)] Failed data load.
+[26324:33648:0501/153320.492:ERROR:entry_impl.cc(955)] Failed to save user data
+[5668:31528:0501/153322.025:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D823979794CF04ED0B9FF7442F76C612 will be ignored
